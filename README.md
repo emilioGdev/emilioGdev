@@ -4,7 +4,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software na Universidade de Pernambuco.
+- 🎓 Formado em Engenharia de Software pela Universidade de Pernambuco.
 - 💼 Trabalhando como Engenheiro de Dados na Sauter.
 - 🌱 Aprendendo mais sobre Google Cloud Plataform.
 
